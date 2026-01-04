@@ -51,7 +51,7 @@ def solve_n_queens(n):
     return solutions
 
 if __name__ == "__main__":
-    n = 4  # You can change N here
+    n = 6  # You can change N here
     solve_n_queens(n)
 
 print('done')
